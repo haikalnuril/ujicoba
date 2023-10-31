@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PBO\\Tugas GUI\\Tugas GUI\\Tugas GUI.csproj": {}
+    "D:\\TugasAkhir\\ujicoba\\Tugas GUI\\Tugas GUI\\Tugas GUI.csproj": {}
   },
   "projects": {
-    "D:\\PBO\\Tugas GUI\\Tugas GUI\\Tugas GUI.csproj": {
+    "D:\\TugasAkhir\\ujicoba\\Tugas GUI\\Tugas GUI\\Tugas GUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PBO\\Tugas GUI\\Tugas GUI\\Tugas GUI.csproj",
+        "projectUniqueName": "D:\\TugasAkhir\\ujicoba\\Tugas GUI\\Tugas GUI\\Tugas GUI.csproj",
         "projectName": "Tugas GUI",
-        "projectPath": "D:\\PBO\\Tugas GUI\\Tugas GUI\\Tugas GUI.csproj",
+        "projectPath": "D:\\TugasAkhir\\ujicoba\\Tugas GUI\\Tugas GUI\\Tugas GUI.csproj",
         "packagesPath": "C:\\Users\\HAIKAL\\.nuget\\packages\\",
-        "outputPath": "D:\\PBO\\Tugas GUI\\Tugas GUI\\obj\\",
+        "outputPath": "D:\\TugasAkhir\\ujicoba\\Tugas GUI\\Tugas GUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HAIKAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
