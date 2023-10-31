@@ -1,0 +1,17 @@
+D:\PBO\Tugas GUI\Tugas GUI\bin\Debug\net6.0-windows\Tugas GUI.exe
+D:\PBO\Tugas GUI\Tugas GUI\bin\Debug\net6.0-windows\Tugas GUI.deps.json
+D:\PBO\Tugas GUI\Tugas GUI\bin\Debug\net6.0-windows\Tugas GUI.runtimeconfig.json
+D:\PBO\Tugas GUI\Tugas GUI\bin\Debug\net6.0-windows\Tugas GUI.dll
+D:\PBO\Tugas GUI\Tugas GUI\bin\Debug\net6.0-windows\Tugas GUI.pdb
+D:\PBO\Tugas GUI\Tugas GUI\obj\Debug\net6.0-windows\Tugas_GUI.Form1.resources
+D:\PBO\Tugas GUI\Tugas GUI\obj\Debug\net6.0-windows\Tugas GUI.csproj.GenerateResource.cache
+D:\PBO\Tugas GUI\Tugas GUI\obj\Debug\net6.0-windows\Tugas GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBO\Tugas GUI\Tugas GUI\obj\Debug\net6.0-windows\Tugas GUI.AssemblyInfoInputs.cache
+D:\PBO\Tugas GUI\Tugas GUI\obj\Debug\net6.0-windows\Tugas GUI.AssemblyInfo.cs
+D:\PBO\Tugas GUI\Tugas GUI\obj\Debug\net6.0-windows\Tugas GUI.csproj.CoreCompileInputs.cache
+D:\PBO\Tugas GUI\Tugas GUI\obj\Debug\net6.0-windows\Tugas GUI.dll
+D:\PBO\Tugas GUI\Tugas GUI\obj\Debug\net6.0-windows\refint\Tugas GUI.dll
+D:\PBO\Tugas GUI\Tugas GUI\obj\Debug\net6.0-windows\Tugas GUI.pdb
+D:\PBO\Tugas GUI\Tugas GUI\obj\Debug\net6.0-windows\Tugas GUI.genruntimeconfig.cache
+D:\PBO\Tugas GUI\Tugas GUI\obj\Debug\net6.0-windows\ref\Tugas GUI.dll
+D:\PBO\Tugas GUI\Tugas GUI\obj\Debug\net6.0-windows\Tugas_GUI.FormTambahData.resources
